@@ -1,0 +1,62 @@
+{
+    "name": "ShopIgniter",
+    "description": "The Social Performance Marketing Platform",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1149-shopigniter.jpg",
+    "tags": [
+        "commerce",
+        "have api",
+        "shopping",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shopigniter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ShopIgniter",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1149-shopigniter.jpg",
+            "humanURL": "http:\/\/developers.shopigniter.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shopigniter-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developers.shopigniter.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.shopigniter.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/ShopIgniter"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/shopigniter"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/shopigniter"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ShopIgniter"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/shopigniter"
+        }
+    ]
+}
